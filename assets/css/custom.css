@@ -1,0 +1,20 @@
+/* === Shubhro custom background === */
+
+html,
+body {
+  background-color: #ffe9e9 !important;
+}
+
+/* Try to remove white boxes so the pink shows through more */
+main,
+.page,
+.single,
+.post,
+.home-info,
+.archive-post,
+.article,
+.page-header,
+.post-entry,
+.list-page {
+  background-color: transparent !important;
+}
