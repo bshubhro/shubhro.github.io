@@ -4,15 +4,15 @@ theme: PaperMod
 
 menu:
   main:
-    - name: Research
+    - name: Working Papers
       url: papers/
       weight: 2
-    - name: Teaching
-      url: courses/
-      weight: 3
-    - name: Data
-      url: data/
-      weight: 4
+    # - name: Teaching
+    #   url: courses/
+    #   weight: 3
+    # - name: Data
+    #   url: data/
+    #   weight: 4
 
 params:
   description: "Website of Shubhro Bhattacharya, PhD student in Economics at UC San Diego. Research on state capacity, frontline workers, and public service delivery in India."
@@ -26,12 +26,12 @@ params:
     imageWidth: 160
     imageHeight: 160
     buttons:
-      - name: Research
+      - name: Working Papers
         url: papers/
-      - name: Teaching
-        url: courses/
-      - name: Data
-        url: data/
+      # - name: Teaching
+      #   url: courses/
+      # - name: Data
+      #   url: data/
         
       # - name: Tags
       #   url: tags/
