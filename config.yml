@@ -32,10 +32,11 @@ params:
         url: courses/
       - name: Data
         url: data/
-      - name: Tags
-        url: tags/
-      - name: Archive
-        url: archive/
+        
+      # - name: Tags
+      #   url: tags/
+      # - name: Archive
+      #   url: archive/
 
   socialIcons:
     - name: CV
