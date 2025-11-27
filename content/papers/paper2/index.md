@@ -5,13 +5,13 @@ tags: ["environment", "behavioral", "education", "India", "RCT"]
 
 author:
   [
+    "Shubhro Bhattacharya"
     "Sara Constantino",
     "Nirajana Mishra",
     "Nishith Prakash",
     "Shwetlena Sabarwal",
     "Dighbijoy Samaddar",
     "Raisa Sherif",
-    "Shubhro Bhattacharya"
   ]
   
 description: "Working paper. A randomized evaluation of how school-based interventions with children affect household environmental behaviors in Bihar, India."
@@ -35,8 +35,9 @@ This working paper studies whether “sustainability starts at home”: can chil
 - *(Working paper draft coming soon.)*
 - *(Survey instruments and replication materials will be shared here when available.)*
 
-##### Citation 
+##### Citation (Placeholder) 
 
+```latex
 @unpublished{ConstantinoEtAl2025,
   author  = {Sara Constantino and Nirajana Mishra and Nishith Prakash and Shwetlena Sabarwal and Dighbijoy Samaddar and Raisa Sherif and Shubhro Bhattacharya},
   year    = {2025},
