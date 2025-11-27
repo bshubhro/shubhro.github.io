@@ -5,9 +5,11 @@ tags: ["political economy", "historical institutions", "India"]
 author: ["Shubhro Bhattacharya", "Ryu Matsuura", "Utsav Manjeer"]
 description: "Working paper. We study how historical land and governance institutions shape contemporary political selection in India."
 summary: "This project examines how historical institutions influence which types of politicians are selected today."
+
 cover:
     alt: "Historical institutions and political selection"
     relative: true
+
 editPost:
     URL: "https://github.com/bshubhro/shubhro.github.io"
     Text: "Project materials"
@@ -27,8 +29,8 @@ We combine historical administrative data with modern election results and measu
 ##### Citation (placeholder)
 
 ```latex
-@unpublished{MatsuuraManjeerBhattacharya2025,
-  author  = {Ryu Matsuura and Utsav Manjeer and Shubhro Bhattacharya},
+@unpublished{Bhattacharyazamindar2025,
+  author  = {Shubhro Bhattacharya and Ryu Matsuura and Utsav Manjeer},
   year    = {2025},
   title   = {Political (Mis)selection: The Role of Historical Institutions},
   note    = {Working paper, draft in progress}
