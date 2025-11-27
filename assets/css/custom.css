@@ -1,20 +1,22 @@
 /* === Shubhro custom background === */
 
+/* Set global background color */
 html,
 body {
-  background-color: #ffe9e9 !important;
+  background-color: #ffe9e9 !important;  /* soft rose pink */
 }
 
-/* Try to remove white boxes so the pink shows through more */
-main,
+/* Make main content boxes transparent so the pink shows through */
+.main,
 .page,
 .single,
 .post,
-.home-info,
-.archive-post,
-.article,
-.page-header,
 .post-entry,
-.list-page {
+.home-info,
+.list,
+.list-page,
+.archive,
+.article,
+.page-header {
   background-color: transparent !important;
 }
