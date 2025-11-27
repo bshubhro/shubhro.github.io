@@ -7,9 +7,9 @@
     --footer-height: 70px;
     --radius: 8px;
 
-    /* slightly stronger tinted yellow background */
-    --theme: rgb(255, 241, 200);      /* was 255,247,214 */
-    --entry: rgb(255, 241, 200);      /* was 255,247,214 */
+    /* stronger tinted yellow background */
+    --theme: rgb(255, 232, 160);      /* was 255,241,200 */
+    --entry: rgb(255, 232, 160);      /* was 255,241,200 */
 
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108);
@@ -17,7 +17,7 @@
     --gray: rgb(165, 165, 165);
     --content: rgb(30, 30, 30);
     --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(255, 241, 200);    /* was 255,247,214 */
+    --code-bg: rgb(255, 232, 160);    /* was 255,241,200 */
     --border: rgb(238, 238, 238);
     --darkcolor: #6a7ba2;
     --lightcolor: #cbd1de;
