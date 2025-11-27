@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main class="main">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+      <div class="post-description">
+        {{ . }}
+      </div>
+    {{ end }}
+  </header>
+
+  {{/* Split papers into working vs wip based on front matter "status" */}}
+  {{ $working := where .Pages "Params.status" "working" }}
+  {{ $wip := where .Pages "Params.status" "wip" }}
+
+  {{ if gt (len $working) 0 }}
+    <h2>Working papers</h2>
+    <div class="post-list">
+      {{ range $working }}
+        {{ partial "post-entry.html" . }}
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ if gt (len $wip) 0 }}
+    <h2>Works in progress</h2>
+    <div class="post-list">
+      {{ range $wip }}
+        {{ partial "post-entry.html" . }}
+      {{ end }}
+    </div>
+  {{ end }}
+
+</main>
+{{ end }}
