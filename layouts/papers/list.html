@@ -9,26 +9,22 @@
     {{ end }}
   </header>
 
-  {{/* Split papers into working vs wip based on front matter "status" */}}
+  {{/* collect papers with status = "working" */}}
   {{ $working := where .Pages "Params.status" "working" }}
-  {{ $wip := where .Pages "Params.status" "wip" }}
-
   {{ if gt (len $working) 0 }}
-    <h2>Working papers</h2>
-    <div class="post-list">
-      {{ range $working }}
-        {{ partial "post-entry.html" . }}
-      {{ end }}
-    </div>
+    <h2>Working Papers</h2>
+    {{ range $working }}
+      {{ .Render "summary" }}
+    {{ end }}
   {{ end }}
 
+  {{/* collect papers with status = "wip" (works in progress) */}}
+  {{ $wip := where .Pages "Params.status" "wip" }}
   {{ if gt (len $wip) 0 }}
-    <h2>Works in progress</h2>
-    <div class="post-list">
-      {{ range $wip }}
-        {{ partial "post-entry.html" . }}
-      {{ end }}
-    </div>
+    <h2>Works in Progress</h2>
+    {{ range $wip }}
+      {{ .Render "summary" }}
+    {{ end }}
   {{ end }}
 
 </main>
