@@ -5,13 +5,13 @@ tags: ["environment", "behavioral", "education", "India", "RCT"]
 
 author:
   [
-    "Shubhro Bhattacharya"
+    "Shubhro Bhattacharya",
     "Sara Constantino",
     "Nirajana Mishra",
     "Nishith Prakash",
     "Shwetlena Sabarwal",
     "Dighbijoy Samaddar",
-    "Raisa Sherif",
+    "Raisa Sherif"
   ]
   
 description: "Working paper. A randomized evaluation of how school-based interventions with children affect household environmental behaviors in Bihar, India."
