@@ -38,8 +38,8 @@ This working paper studies whether “sustainability starts at home”: can chil
 ##### Citation (Placeholder) 
 
 ```latex
-@unpublished{ConstantinoEtAl2025,
-  author  = {Sara Constantino and Nirajana Mishra and Nishith Prakash and Shwetlena Sabarwal and Dighbijoy Samaddar and Raisa Sherif and Shubhro Bhattacharya},
+@unpublished{bhattacharya2025,
+  author  = {Shubhro Bhattacharya and Sara Constantino and Nirajana Mishra and Nishith Prakash and Shwetlena Sabarwal and Dighbijoy Samaddar and Raisa Sherif},
   year    = {2025},
   title   = {Sustainability Starts at Home: The Role of Children in Shaping Environmental Practices},
   note    = {Working paper, draft in progress}
