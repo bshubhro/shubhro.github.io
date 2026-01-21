@@ -8,7 +8,3 @@ Below are courses I have taught or am currently teaching. Click a course to acce
 ## Current courses
 
 - [Econ 5 – Winter 2026](/courses/Econ5_WI26/)
-
-## Past courses
-
-*(To be added.)*
