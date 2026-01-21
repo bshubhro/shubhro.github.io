@@ -7,9 +7,9 @@ menu:
     - name: Working Papers
       url: papers/
       weight: 2
-    # - name: Teaching
-    #   url: courses/
-    #   weight: 3
+    - name: Teaching
+       url: courses/
+       weight: 3
     # - name: Data
     #   url: data/
     #   weight: 4
