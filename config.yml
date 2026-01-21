@@ -8,8 +8,8 @@ menu:
       url: papers/
       weight: 2
     - name: Teaching
-       url: courses/
-       weight: 3
+      url: courses/
+      weight: 3
     # - name: Data
     #   url: data/
     #   weight: 4
@@ -28,11 +28,10 @@ params:
     buttons:
       - name: Working Papers
         url: papers/
-       - name: Teaching
-         url: courses/
+      - name: Teaching
+        url: courses/
       # - name: Data
       #   url: data/
-        
       # - name: Tags
       #   url: tags/
       # - name: Archive
@@ -47,10 +46,10 @@ params:
       url: https://github.com/bshubhro
     - name: LinkedIn
       url: https://www.linkedin.com/in/shubhro-bhattacharya-99307922/
-    
   # - name: Twitter
   #   url: https://x.com/...
   # - name: YouTube
   #   url: https://www.youtube.com/@...
   # - name: Substack
-  #   url: https://yournewsletter.substack.com 
+  #   url: https://yournewsletter.substack.com
+
