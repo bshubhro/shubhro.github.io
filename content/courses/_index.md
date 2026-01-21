@@ -1,12 +1,14 @@
 ---
 title: "Teaching"
-description: "Slides and materials for my courses."
+description: "Index of courses and teaching materials."
 ---
 
-Here you’ll find slides and materials for courses I teach.
+Below are courses I have taught or am currently teaching. Click a course to access all slides, do-files, and datasets.
 
-## Econ 5 – Winter 2026
+## Current courses
 
-All materials (slides, do-files, and datasets) for Econ 5 Winter 2026 are available here:
+- [Econ 5 – Winter 2026](/courses/Econ5_WI26/)
 
-- [Econ 5 – Winter 2026 materials](/courses/Econ5_WI26/)
+## Past courses
+
+*(To be added.)*
