@@ -28,8 +28,8 @@ params:
     buttons:
       - name: Working Papers
         url: papers/
-      # - name: Teaching
-      #   url: courses/
+       - name: Teaching
+         url: courses/
       # - name: Data
       #   url: data/
         
