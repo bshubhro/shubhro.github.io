@@ -1,6 +1,6 @@
 ---
 title: "Econ 5 – Winter 2026"
-date: 2026-01-01
+date: Winter, 2026
 tags: ["stata", "data science", "applied econometrics"]
 author: ["Shubhro Bhattacharya"]
 description: "Slides and do-files for Econ 5 / Poli 5D (Winter 2026)."
