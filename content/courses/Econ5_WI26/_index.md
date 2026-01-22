@@ -1,22 +1,18 @@
 ---
-title: "Econ 5 – Winter 2026"
-date: 2026-01-01
+title: "Econ 5/ Poli 5D – Winter 2026"
+date: Winter, 2026
 tags: ["stata", "data science", "applied econometrics"]
 author: ["Shubhro Bhattacharya"]
 description: "Slides and do-files for Econ 5 / Poli 5D (Winter 2026)."
 summary: "This page contains all materials for Econ 5 / Poli 5D – Data Analytics for the Social Sciences (Winter 2026)."
-
-editPost:
-  URL: "https://github.com/bshubhro/shubhro.github.io"
-  Text: "Course materials"
 ---
 
-##### Week 2 – Lab 2
+### Week 2 – Lab 2
 
 - [Slides](econ5_lab2_slides.pdf)
 - [Do-file](econ5_lab2.do)
 
-##### Week 3 – Lab 3
+### Week 3 – Lab 3
 
 - [Slides](econ5_lab3_slides.pdf)
 - [Do-file](econ5_lab3.do)
