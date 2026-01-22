@@ -6,7 +6,7 @@ author: ["Shubhro Bhattacharya"]
 description: "Slides and do-files for Econ 5 / Poli 5D (Winter 2026)."
 summary: "This page contains all materials for Econ 5 / Poli 5D – Data Analytics for the Social Sciences (Winter 2026)."
 ---
-#### Econ 5/ Poli 5D – Winter 2026
+### Econ 5/ Poli 5D – Winter 2026
 
 This page contains all materials for Econ 5 / Poli 5D – Data Analytics for the Social Sciences (Winter 2026).
 
