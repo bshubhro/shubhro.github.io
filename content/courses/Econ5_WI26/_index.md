@@ -20,6 +20,11 @@ This page contains all materials for Econ 5 / Poli 5D – Data Analytics for the
 - [Slides](econ5_lab3_slides.pdf)
 - [Do-file](econ5_lab3.do)
 
+### Week 4 – Lab 4
+
+- [Slides](econ5_lab4_slides.pdf)
+- [Do-file](econ5_lab4.do)
+
 ---
 
 More labs and materials will be added here as the quarter progresses.
