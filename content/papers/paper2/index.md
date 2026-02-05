@@ -28,7 +28,7 @@ editPost:
 
 ##### Abstract
 
-This working paper studies whether “sustainability starts at home”: can children be effective agents of change for household environmental practices? We evaluate a school-based intervention implemented with roughly 3,000 students in Bihar, India, which combines environmental education, experiential activities, and simple take-home tasks that encourage conversations between children and caregivers. We measure impacts on knowledge, attitudes, and behaviors related to waste management, water use, and sanitation, both for children and for their households. The project leverages randomized variation in exposure at the school or class level and combines survey data with simple behavioral measures. The goal is to understand whether child-focused programs can induce persistent changes in household environmental practices in low-income urban and peri-urban settings.
+We study how to target environmental education when households face an authority--preference mismatch: children often care more about climate change, while parents control decisions. In a randomized field experiment in Patna, India with 1,545 child--parent pairs, households were assigned to education delivered to the child only, the parent only, both jointly, or control (a 2$\times$2 household factorial design). Direct participation increases pro-environmental behavior for both children and parents. Spillovers are asymmetric: treating children shifts parents’ climate beliefs and attitudes, while treating parents has limited effects on children. Joint participation does not significantly outperform targeting children alone.
 
 ##### Download
 
