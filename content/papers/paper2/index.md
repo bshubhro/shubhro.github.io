@@ -28,7 +28,7 @@ editPost:
 
 ##### Abstract
 
-We study how to target environmental education when households face an authority--preference mismatch: children often care more about climate change, while parents control decisions. In a randomized field experiment in Patna, India with 1,545 child--parent pairs, households were assigned to education delivered to the child only, the parent only, both jointly, or control (a 2$\times$2 household factorial design). Direct participation increases pro-environmental behavior for both children and parents. Spillovers are asymmetric: treating children shifts parents’ climate beliefs and attitudes, while treating parents has limited effects on children. Joint participation does not significantly outperform targeting children alone.
+We study how to target environmental education when households face an authority--preference mismatch: children often care more about climate change, while parents control decisions. In a randomized field experiment in Patna, India with 1,545 child--parent pairs, households were assigned to education delivered to the child only, the parent only, both jointly, or control (a 2 X 2 household factorial design). Direct participation increases pro-environmental behavior for both children and parents. Spillovers are asymmetric: treating children shifts parents’ climate beliefs and attitudes, while treating parents has limited effects on children. Joint participation does not significantly outperform targeting children alone.
 
 ##### Download
 
