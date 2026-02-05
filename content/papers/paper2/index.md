@@ -1,5 +1,5 @@
 ---
-title: "Sustainability Starts at Home: The Role of Children in Shaping Environmental Practices"
+title: "Intergenerational Spillovers of Environmental Attitudes and Behaviours"
 date: 2024-01-01
 tags: ["environment", "behavioral", "education", "India", "RCT"]
 
