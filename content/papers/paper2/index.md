@@ -21,8 +21,8 @@ summary: "We study whether engaging children in environmental education and acti
 cover:
     alt: "Children and environmental practices"
     relative: true
-editPost:
-    URL: "https://github.com/bshubhro.github.io"
+#editPost:
+    #URL: "https://github.com/bshubhro.github.io"
     #Text: "Project materials"
 ---
 
