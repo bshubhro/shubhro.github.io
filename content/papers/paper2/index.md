@@ -1,6 +1,6 @@
 ---
-title: "Intergenerational Spillovers of Environmental Attitudes and Behaviours"
-date: 2024-01-01
+title: "Intergenerational Spillovers of Environmental Attitudes and Behaviors"
+date: 2026-01-01
 tags: ["environment", "behavioral", "education", "India", "RCT"]
 
 author:
@@ -28,11 +28,23 @@ editPost:
 
 ##### Abstract
 
-We study how to target environmental education when households face an authority--preference mismatch: children often care more about climate change, while parents control decisions. In a randomized field experiment in Patna, India with 1,545 child--parent pairs, households were assigned to education delivered to the child only, the parent only, both jointly, or control (a 2 X 2 household factorial design). Direct participation increases pro-environmental behavior for both children and parents. Spillovers are asymmetric: treating children shifts parents’ climate beliefs and attitudes, while treating parents has limited effects on children. Joint participation does not significantly outperform targeting children alone.
+This study evaluates how environmental education shapes household behavior through the
+intergenerational transmission of knowledge, beliefs and attitudes. We implement a novel
+activity-based environmental education program tailored to the local context in Patna, India, and
+designed to engage both children and adults. We test the direct effects of the intervention on
+participants and spillovers to non-participating family members in a randomized field experiment
+with 1,545 child–parent pairs. Households were assigned to one of three treatment
+arms—child-only, parent-only, or joint child–parent participation—or to a control group. We find
+that direct participation increases pro-environmental behaviors. Spillover effects are present but
+asymmetric. While both children and parents influence one another, only children shift their
+parents’ beliefs and attitudes toward climate change. After accounting for spillovers, joint
+participation does not produce stronger outcomes than participation by either group individually,
+suggesting that targeting children may be a more scalable and cost-effective approach to
+promoting sustainable household behavior.
 
 ##### Download
 
-- *(Working paper draft coming soon.)*
+- *(Submitted. paper draft coming soon.)*
 - *(Survey instruments and replication materials will be shared here when available.)*
 
 ##### Citation (Placeholder) 
@@ -40,7 +52,7 @@ We study how to target environmental education when households face an authority
 ```latex
 @unpublished{bhattacharya2024,
   author  = {Shubhro Bhattacharya and Sara Constantino and Nirajana Mishra and Nishith Prakash and Shwetlena Sabarwal and Dighbijoy Samaddar and Raisa Sherif},
-  year    = {2025},
-  title   = {Sustainability Starts at Home: The Role of Children in Shaping Environmental Practices},
-  note    = {Working paper, draft in progress}
+  year    = {2026},
+  title   = {Intergenerational Spillovers of Environmental Attitudes and Behaviors},
+  note    = {Working paper}
 }
