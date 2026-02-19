@@ -23,7 +23,7 @@ cover:
     relative: true
 editPost:
     URL: "https://github.com/bshubhro.github.io"
-    Text: "Project materials"
+    #Text: "Project materials"
 ---
 
 ##### Abstract
