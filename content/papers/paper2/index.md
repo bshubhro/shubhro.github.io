@@ -50,7 +50,7 @@ promoting sustainable household behavior.
 ##### Citation (Placeholder) 
 
 ```latex
-@unpublished{bhattacharya2024,
+@unpublished{bhattacharya2026,
   author  = {Shubhro Bhattacharya and Sara Constantino and Nirajana Mishra and Nishith Prakash and Shwetlena Sabarwal and Dighbijoy Samaddar and Raisa Sherif},
   year    = {2026},
   title   = {Intergenerational Spillovers of Environmental Attitudes and Behaviors},
