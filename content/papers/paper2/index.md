@@ -1,12 +1,12 @@
 ---
 title: "Intergenerational Spillovers of Environmental Attitudes and Behaviors"
-date: 2026-01-01
-tags: ["environment", "behavioral", "education", "India", "RCT"]
+date: 2026-02-19
+tags: ["environment", "climate", "behavioral", "education", "India", "RCT"]
 
 author:
   [
     "Shubhro Bhattacharya",
-    "Sara Constantino",
+    "Sara M. Constantino",
     "Nirajana Mishra",
     "Nishith Prakash",
     "Shwetlena Sabarwal",
@@ -14,9 +14,9 @@ author:
     "Raisa Sherif"
   ]
   
-description: "Working paper. A randomized evaluation of how school-based interventions with children affect household environmental behaviors in Bihar, India."
+description: "CESifo Working Paper No. 12499. A randomized field experiment on how environmental education targeted at children and parents shapes household environmental beliefs and behaviors in Patna, India."
 
-summary: "We study whether engaging children in environmental education and activities can shift household beliefs and practices around waste, water, and sanitation."
+summary: "We study whether environmental education targeted at children, parents, or both can shift household beliefs and practices around climate and pro-environmental behavior."
 
 cover:
     alt: "Children and environmental practices"
@@ -32,15 +32,20 @@ This study evaluates how environmental education shapes household behavior throu
 
 ##### Download
 
-- *(Submitted. paper draft coming soon.)*
+- [Working paper (PDF)](bhattacharya_etal_2026_cesifo_wp12499.pdf)
+- [CESifo Working Paper version](https://www.ifo.de/DocDL/cesifo1_wp12499.pdf)
 - *(Survey instruments and replication materials will be shared here when available.)*
 
 ##### Citation
 
-```latex
-@unpublished{bhattacharya2026,
-  author  = {Shubhro Bhattacharya and Sara Constantino and Nirajana Mishra and Nishith Prakash and Shwetlena Sabarwal and Dighbijoy Samaddar and Raisa Sherif},
-  year    = {2026},
-  title   = {Intergenerational Spillovers of Environmental Attitudes and Behaviors},
-  note    = {Working paper}
+```bibtex
+@techreport{bhattacharya2026intergenerational,
+  author      = {Bhattacharya, Shubhro and Constantino, Sara M. and Mishra, Nirajana and Prakash, Nishith and Sabarwal, Shwetlena and Samaddar, Dighbijoy and Sherif, Raisa},
+  title       = {Intergenerational Spillovers of Environmental Attitudes and Behaviors},
+  institution = {CESifo},
+  type        = {CESifo Working Paper},
+  number      = {12499},
+  year        = {2026},
+  month       = feb,
+  url         = {https://www.ifo.de/DocDL/cesifo1_wp12499.pdf}
 }
