@@ -21,7 +21,7 @@ params:
   profileMode:
     enabled: true
     title: "Shubhro Bhattacharya"
-    subtitle: "PhD student in Economics at the University of California San Diego. I study state capacity, frontline public-sector workers, and the last-mile delivery of public services in India, using field experiments, quasi-experimental methods, and administrative data."
+    subtitle: "I am a PhD student in Economics at the University of California San Diego. I study frontline state capacity and the last-mile delivery of public services, combining experimental and quasi-experimental methods with administrative data and structural modeling."
     imageUrl: "picture.jpeg"
     imageWidth: 160
     imageHeight: 160
