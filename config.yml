@@ -39,7 +39,7 @@ params:
 
   socialIcons:
     - name: CV
-      url: cv.pdf
+      url: shubhro_cv.pdf
     - name: Email
       url: mailto:shbhattacharya@ucsd.edu
     - name: GitHub
